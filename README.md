@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Jeegar%20Thirumal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Jeegari%20Thirumal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
