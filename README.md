@@ -1,16 +1,100 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Thirumal%20Jeegari&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**ThirumalJeegari/ThirumalJeegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech CSE Student at Malla Reddy University  
+🚀 Aspiring Java + AI Developer  
+🧠 Passionate about AI, RAG, and Backend Development  
+🏆 GDG (Google Developer Groups) Lead  
+🌍 Dream: Working in a top tech company & building AI products  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,streamlit,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThirumalJeegari&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirumalJeegari&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- 🧠 Learning Machine Learning & RAG Systems  
+- ⚙️ Building AI Projects using Python & LangChain  
+- 💻 Improving DSA & Java for placements  
+- 🚀 Working on real-world AI applications  
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 PDF Q&A Chatbot (RAG System)
+- Upload PDF and ask questions
+- AI extracts answers using embeddings
+- Built with Streamlit + LangChain + Python
+
+### 📌 AI Resume Analyzer
+- Resume vs Job Description matching
+- Skill scoring system
+- ATS optimization suggestions
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThirumalJeegari&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/thirumaljeegari">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ThirumalJeegari">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:thirumaljeegari21@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🏁 Closing
+
+<p align="center">
+  <b>"Code. Learn. Build. Repeat." 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+</p>
