@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Thirumal%20Jeegari&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Jeegar%20Thirumal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
@@ -8,9 +8,9 @@
 ## 💡 About Me
 
 🎓 B.Tech CSE Student at Malla Reddy University  
-🚀 Aspiring Java + AI Developer  
+🚀 Aspiring AI Engineer & Data Science
 🧠 Passionate about AI, RAG, and Backend Development  
-🏆 GDG (Google Developer Groups) Lead  
+🏆 Google Developer Groups on Campus Lead/Organizer  
 🌍 Dream: Working in a top tech company & building AI products  
 
 ---
@@ -38,7 +38,7 @@
 
 - 🧠 Learning Machine Learning & RAG Systems  
 - ⚙️ Building AI Projects using Python & LangChain  
-- 💻 Improving DSA & Java for placements  
+- 💻 Improving DSA
 - 🚀 Working on real-world AI applications  
 
 ---
