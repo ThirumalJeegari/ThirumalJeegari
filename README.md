@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,streamlit,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,avien,streamlit,git,github,vscode" />
 
 </p>
 
