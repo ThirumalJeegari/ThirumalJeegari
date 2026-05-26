@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode,Claude,ChatGPT,Gemini" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode />
 
 </p>
 
