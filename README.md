@@ -1,45 +1,60 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Hi%20👋%20I'm%20Jeegari%20Thirumal&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Jeegari%20Thirumal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>🚀 AI Engineer | Backend Developer | GDG Lead</b>
+</p>
+
+<p align="center">
+  <i>Building AI systems, RAG applications & scalable backend solutions</i>
 </p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSE Student at Malla Reddy University  
-🚀 Aspiring AI Engineer & Data Science
-🧠 Passionate about AI, RAG, and Backend Development  
-🏆 Google Developer Groups on Campus Lead/Organizer  
-🌍 Dream: Working in a top tech company & building AI products  
+🎓 B.Tech CSE @ Malla Reddy University  
+🧠 AI/ML Enthusiast (RAG, LLMs, NLP)  
+⚙️ Backend Developer (Python, APIs, Databases)  
+🏆 Google Developer Groups (GDG) On-Campus Lead  
+🚀 Focused on building real-world AI products  
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode "/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,fastapi,streamlit" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThirumalJeegari&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirumalJeegari&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThirumalJeegari&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirumalJeegari&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThirumalJeegari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- 🧠 Learning Machine Learning & RAG Systems  
-- ⚙️ Building AI Projects using Python & LangChain  
-- 💻 Improving DSA
-- 🚀 Working on real-world AI applications  
+- 🧠 Large Language Models (LLMs)
+- 📚 RAG Systems (Retrieval Augmented Generation)
+- ⚙️ Backend APIs with FastAPI
+- 💻 Data Structures & Algorithms
+- 🚀 AI Product Development
 
 ---
 
@@ -47,20 +62,22 @@
 
 ### 📌 PDF Q&A Chatbot (RAG System)
 - Upload PDF and ask questions
-- AI extracts answers using embeddings
+- Semantic search using embeddings
 - Built with Streamlit + LangChain + Python
+
+---
 
 ### 📌 AI Resume Analyzer
 - Resume vs Job Description matching
 - Skill scoring system
-- ATS optimization suggestions
+- ATS optimization insights
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThirumalJeegari&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThirumalJeegari&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -71,17 +88,17 @@
   <a href="https://linkedin.com/in/thirumaljeegari">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/ThirumalJeegari">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="mailto:thirumaljeegari21@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/ThirumalJeegari">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-## 🧠 Dev Quote
+## 💡 Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -89,10 +106,10 @@
 
 ---
 
-## 🏁 Closing
+## 🧭 Closing
 
 <p align="center">
-  <b>"Code. Learn. Build. Repeat." 🚀</b>
+  <b>“Code. Learn. Build. Impact.” 🚀</b>
 </p>
 
 <p align="center">
