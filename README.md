@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <b>🚀 AI Engineer | Backend Developer | GDG Lead</b>
+  <b>🚀  Aspiring AI Engineer & Data Scientist | GoogleDeveloperGroupsonCampus Lead</b>
 </p>
 
 <p align="center">
-  <i>Building AI systems, RAG applications & scalable backend solutions</i>
+  <i>Building AI systems, RAG applications & real world problem sloving</i>
 </p>
 
 ---
